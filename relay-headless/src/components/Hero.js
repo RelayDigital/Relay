@@ -122,7 +122,7 @@ const Hero = () => {
                   //   highlightedText2
                   // )}
                 >
-                  Get <span className="text-blue-500">1.5x</span> More Out Of
+                  Get <span className="text-blue-500">3.7x</span> More Out Of
                   Your Ads, with the #1 High Performance{" "}
                   <span className="text-blue-500">Marketing Funnels</span>.
                 </h1>
